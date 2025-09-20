@@ -55,6 +55,3 @@
 ## 構成
 
 - `notes/` - 各章ごとの読書メモ
-- `references/` - 参考資料・引用
-- `summary/` - 要約・まとめ
-- `project-application/` - プロジェクト適用のための実践メモ
